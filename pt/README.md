@@ -3,6 +3,16 @@ Projeto inicial: CRUD com Electron, JSON e Bootstrap 4
 
 ![electron-crud-bs](assets/electron.png "electron-crud-bs")
 
+## Executável do aplicativo
+
+Mais por curiosidade estou incluindo o executável deste aplicativo, mas somente a versão para Linux
+
+Na pasta release-builds/electron-crud-bs-linux-x64, apenas clique no arquivo
+
+electron-crud-bs
+
+Que ele abrirá a janela do aplicativo,  mas não no navegador e sim como um aplicativo desktop.
+
 ## Sobre
 
 Um projeto inicial para mostrar como ter o [Electron](https://electronjs.org/) e Bootstrap 4 rodando juntos. 
