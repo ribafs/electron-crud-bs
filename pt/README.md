@@ -3,16 +3,6 @@ Projeto inicial: CRUD com Electron, JSON e Bootstrap 4
 
 ![electron-crud-bs](assets/electron.png "electron-crud-bs")
 
-## Executável do aplicativo
-
-Mais por curiosidade estou incluindo o executável deste aplicativo, mas somente a versão para Linux
-
-Na pasta release-builds/electron-crud-bs-linux-x64, apenas clique no arquivo
-
-electron-crud-bs
-
-Que ele abrirá a janela do aplicativo,  mas não no navegador e sim como um aplicativo desktop.
-
 ## Sobre
 
 Um projeto inicial para mostrar como ter o [Electron](https://electronjs.org/) e Bootstrap 4 rodando juntos. 
@@ -30,14 +20,26 @@ Um projeto inicial para mostrar como ter o [Electron](https://electronjs.org/) e
 
 Clonar o o fonte e executar:
 
-```npm install```
+```
+npm install
+```
 
 ## Running
 
-```npm start```
+```
+npm start
+```
 
 ## If recommended
 
-```npm audit fix```
+```
+npm audit fix
+```
+
+## Persistência
+
+Usamos o pacote electron-json-storage
+
+O Electron carece de uma maneira fácil de persistir e ler informações. O pacote electron-json-storage implementa uma API semelhante ao localStorage para escrever e ler objetos JSON de e para o diretório de dados do aplicativo do sistema operacional, conforme definido por app.getPath ('userData').
 
 
