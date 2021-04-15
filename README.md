@@ -1,6 +1,10 @@
 # electron-bootstrap-starter
 Electron with Bootstrap 4 starter project with CRUD and data persistence.
 
+Original in english - [en](english)
+
+Versão em português - [pt](português)
+
 ![electron-bootstrap-starter](https://shaack.com/projekte/assets/img/electron-bootstrap-starter.png "electron-bootstrap-starter")
 
 ## This is
