@@ -1,7 +1,7 @@
 # electron-crud-bs
 Projeto inicial: CRUD com Electron, JSON e Bootstrap 4
 
-![electron-bootstrap-starter](https://shaack.com/projekte/assets/img/electron-bootstrap-starter.png "electron-bootstrap-starter")
+![electron-crud-bs](assets/electron.png "electron-crud-bs")
 
 ## Sobre
 
