@@ -26,3 +26,9 @@ Clone sources and run
 ## Running
 
 ```npm start```
+
+## If recommended
+
+```npm audit fix```
+
+
